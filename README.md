@@ -1,22 +1,54 @@
-# SmartCart 🛒
+# 🛒 SmartCart - E-Commerce Web App
 
-A full-stack web application for online shopping with features like:
-- Product browsing
-- Cart management
-- Wishlist
-- Authentication
+SmartCart is a modern **frontend e-commerce application** built using React + Vite.
 
-## Tech Stack
-- React + TypeScript
-- Vite
-- Node.js (if backend exists)
-- MySQL
+---
 
-## Features
-- Lazy loading
-- Context API
-- Responsive UI
+## 🚀 Features
 
-## How to Run
+* Product browsing interface
+* Add to cart functionality
+* Wishlist management
+* Responsive UI design
+* Fast loading with Vite
+
+---
+
+## 🛠 Tech Stack
+
+* React + TypeScript
+* Vite
+* Context API
+* Node.js (backend ready)
+* MySQL (database support)
+
+---
+
+## 📦 Installation & Run
+
+```bash
 npm install
 npm run dev
+```
+
+---
+
+## 📌 Project Status
+
+✔ Frontend completed
+🔄 Backend integration (if applicable)
+
+---
+
+## 💡 Future Improvements
+
+* Payment gateway integration
+* User authentication
+* Admin dashboard
+* API backend connection
+
+---
+
+## 🔗 Links
+
+* GitHub: https://github.com/varrsa4/smartcart
